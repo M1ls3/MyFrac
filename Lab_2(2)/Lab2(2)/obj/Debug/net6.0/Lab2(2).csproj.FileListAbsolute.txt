@@ -1,0 +1,30 @@
+E:\Max\Projects\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).exe
+E:\Max\Projects\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).deps.json
+E:\Max\Projects\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).runtimeconfig.json
+E:\Max\Projects\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).dll
+E:\Max\Projects\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).pdb
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).csproj.AssemblyReference.cache
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).GeneratedMSBuildEditorConfig.editorconfig
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).AssemblyInfoInputs.cache
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).AssemblyInfo.cs
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).csproj.CoreCompileInputs.cache
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).dll
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\refint\Lab2(2).dll
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).pdb
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).genruntimeconfig.cache
+E:\Max\Projects\Lab2(2)\Lab2(2)\obj\Debug\net6.0\ref\Lab2(2).dll
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).exe
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).deps.json
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).dll
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).dll
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\refint\Lab2(2).dll
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).genruntimeconfig.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\ref\Lab2(2).dll
