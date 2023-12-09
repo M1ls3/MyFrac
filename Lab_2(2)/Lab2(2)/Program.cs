@@ -49,4 +49,4 @@ namespace Task2_MyFrac
             Console.WriteLine(MyFrac.ToStringWithIntegerPart(MyFrac.CalcSum2(4)));
         }
     }
-}
+} 

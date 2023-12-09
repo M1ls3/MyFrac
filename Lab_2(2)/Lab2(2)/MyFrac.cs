@@ -8,7 +8,7 @@ namespace Lab2_2_
 {
     class MyFrac
     {
-        protected long nom, denom;
+        protected long nom, denom; 
 
         public MyFrac(long nom_, long denom_)
         {
@@ -27,6 +27,7 @@ namespace Lab2_2_
         }
 
         public override string ToString() { return nom + "/" + denom; }
+
         public static string ToStringWithIntegerPart(MyFrac f)
         {
             if (Math.Abs(f.nom) > f.denom)

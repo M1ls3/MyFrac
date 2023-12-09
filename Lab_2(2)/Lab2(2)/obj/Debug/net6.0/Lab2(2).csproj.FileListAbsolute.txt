@@ -28,3 +28,18 @@ C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Ла�
 C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).pdb
 C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).genruntimeconfig.cache
 C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 2\Інше\Lab2 zip\Lab2(2)\Lab2(2)\obj\Debug\net6.0\ref\Lab2(2).dll
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).exe
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).deps.json
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).runtimeconfig.json
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).dll
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\bin\Debug\net6.0\Lab2(2).pdb
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).csproj.AssemblyReference.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).AssemblyInfoInputs.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).AssemblyInfo.cs
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).csproj.CoreCompileInputs.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).dll
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\refint\Lab2(2).dll
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).pdb
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\Lab2(2).genruntimeconfig.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_2-2_2022\Lab_2(2)\Lab2(2)\obj\Debug\net6.0\ref\Lab2(2).dll
